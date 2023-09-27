@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../Sistem_Migrasi_PG"
+		},
+		{
+			"path": "../based-laravel"
+		},
+		{
+			"path": "../pihc-dev-2021"
+		},
+		{
+			"path": "../../yii/yii-application"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pratikum_fudamental_html"
+	}
+}
